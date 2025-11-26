@@ -13,7 +13,6 @@ namespace Tyuiu.ShevchenokSE.Sprint2.Task0.V19.Lib
             res[3] = x + 73 > y;
             res[4] = x <= y;
             res[5] = x + 72 >= y;
-
             return res;
         }
     }
