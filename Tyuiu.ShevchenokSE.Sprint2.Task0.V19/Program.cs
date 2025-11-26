@@ -13,13 +13,13 @@ namespace Tyuiu.ShevchenokSE.Sprint2.Task0.V19
             res = ds.GetCompareOperations(x, y);
 
 
-            Console.Title = "Спринт #2 | Выполнил: Медведев М.М. | РППб-24-1";
+            Console.Title = "Спринт #2 | Выполнил: Сергей Ш.Е | СМАРТб-25-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #2                                                               *");
             Console.WriteLine("* Тема: Операции сравнения                                                *");
             Console.WriteLine("* Задание #0                                                              *");
             Console.WriteLine("* Вариант #19                                                             *");
-            Console.WriteLine("* Выполнил: Медведев Матвей Максимович | РППб-24-1                        *");
+            Console.WriteLine("* Выполнил: Шевченок Сергей Евгеньевич | СМАРТб-25-1                      *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Написать программу из операций сравнений (==, !=, <, > , <= , >=) и     *");
