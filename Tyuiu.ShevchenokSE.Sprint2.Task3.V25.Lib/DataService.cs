@@ -1,5 +1,4 @@
 ﻿using tyuiu.cources.programming.interfaces.Sprint2;
-
 namespace Tyuiu.ShevchenokSE.Sprint2.Task3.V25.Lib
 {
     public class DataService : ISprint2Task3V25
@@ -10,7 +9,7 @@ namespace Tyuiu.ShevchenokSE.Sprint2.Task3.V25.Lib
 
             if (x > 1)
             {
-                y = Math.Pow(Math.Sin(x), 3) + Math.Pow(((x + 1) / (x - 1)), x) + 0.265;
+                y = Math.Pow(Math.Sin(x), 3) + Math.Pow(((x + 1) / (x - 1)), x) + 0.266;
             }
             else
             {
