@@ -6,13 +6,13 @@ namespace Tyuiu.ShevchenokSE.Sprint2.Task6.V5
         static void Main(string[] args)
         {
             DataService ds = new DataService();
-            Console.Title = "Спринт #2| Выполнил: Моторова Д. Д. | СМАРТб-23-1";
+            Console.Title = "Спринт #2| Выполнил: Шевченок С.Е. | СМАРТб-25-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #2                                                               *");
             Console.WriteLine("* Тема: Сокращённый оператор switch                                       *");
             Console.WriteLine("* Задание #6                                                              *");
             Console.WriteLine("* Вариант #5                                                              *");
-            Console.WriteLine("* Выполнил Моторова Дана Дмитриевна | СМАРТб-23-1                         *");
+            Console.WriteLine("* Выполнил Шевченок Сергей Евгеньевич | СМАРТб-25-1                       *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Написать программу, которая, используя оператор switch, по номеру       *");
