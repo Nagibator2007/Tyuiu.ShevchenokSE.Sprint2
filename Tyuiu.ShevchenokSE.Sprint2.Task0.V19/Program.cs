@@ -1,7 +1,7 @@
 ﻿using Tyuiu.ShevchenokSE.Sprint2.Task0.V19.Lib;
 namespace Tyuiu.ShevchenokSE.Sprint2.Task0.V19
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
